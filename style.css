@@ -1,0 +1,71 @@
+.nav{
+    text-align: center;
+}
+.mid{
+    text-align: center;
+}
+.low{
+    text-align: center;
+}
+.section{
+    text-align: center;
+}
+.detail{
+    text-align: center;
+}
+.image{
+    display: block;
+    margin: 0 auto;
+}
+h4{
+    display: inline;
+}
+.step1{
+    border: 2px solid black;
+    padding: 6px;
+    text-align: center;
+    width: 6cm;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.detail{
+    display: block;
+    margin: 0 auto;
+}
+.button1{
+    text-align: center;
+}
+.email{
+    text-align: center;
+}
+.password{
+    text-align: center;
+}
+.cpassword{
+    text-align: center;
+}
+fieldset{
+    width: 10cm;
+    display: block;
+    margin: 0 auto;
+}
+.step2{
+    border: 2px solid black;
+    padding: 6px;
+    text-align: center;
+    width: 9cm;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.step3{
+    border: 2px solid black;
+    padding: 6px;
+    text-align: center;
+    width: 8cm;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+form{}
